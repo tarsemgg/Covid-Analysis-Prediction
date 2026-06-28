@@ -2,7 +2,7 @@
 
 > Exploratory data analysis, interactive visualizations, and a 7-day forecast of global COVID-19 confirmed cases using Facebook Prophet.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wQcalCwAnCeWHRtdv9F4RKtRelQUNfdp?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Viz-blueviolet)
